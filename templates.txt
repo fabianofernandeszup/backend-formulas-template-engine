@@ -1,0 +1,3 @@
+https://github.com/fabianofernandeszup/template-scaffold-kotlin-micronaut
+https://github.com/fabianofernandeszup/template-rds
+https://github.com/fabianofernandeszup/template-kafka
